@@ -15,6 +15,12 @@ I'm a passionate developer specializing in **Solana smart contracts, Web3 toolin
 - 🌱 I'm currently expanding my knowledge in **Machine Learning pipelines and Advanced On-chain mechanics**
 - 📫 Reach out to me: **[www.bytez3.com](https://www.bytez3.com/)**
 
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/steonchain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steonchain" height="30" width="40" /></a>
+  <a href="https://x.com/SteOnChain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="steonchain" height="30" width="40" /></a>
+</p>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
