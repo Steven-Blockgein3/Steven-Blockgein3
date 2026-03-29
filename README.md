@@ -124,9 +124,9 @@ Here is a breakdown of the incredibly ambitious ecosystems, organizations, and p
 <p align="center">
   <!-- The Snake Animation Custom GitHub Action (Starts generating within 24 hours of setup) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steven-Blockgein3/Steven-Blockgein3/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steven-Blockgein3/Steven-Blockgein3/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Steven-Blockgein3/Steven-Blockgein3/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steven-Blockgein3/Steven-Blockgein3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steven-Blockgein3/Steven-Blockgein3/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Steven-Blockgein3/Steven-Blockgein3/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
