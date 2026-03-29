@@ -5,7 +5,7 @@
 > Join our elite ecosystem: [discord.gg/bytez3](http://discord.gg/bytez3) | Follow [@Bytez3_](https://x.com/Bytez3_) ⛓️🦀
 
 <p align="center">
-  <a href="https://github.com/Steven-Blockgein3">
+  <a href="https://github.com/SteOnChain">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=535&lines=Web3,+AI,+and+Automation+Engineer;Solana+Smart+Contract+Developer;Full+Stack+Software+Engineer" />
   </a>
 </p>
@@ -21,7 +21,7 @@ I'm a passionate developer specializing in **Solana smart contracts, Web3 toolin
 <p align="left">
   <a href="https://www.linkedin.com/in/steonchain/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="steonchain" /></a>
   <a href="https://x.com/SteOnChain" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="steonchain" /></a>
-  <a href="https://github.com/Steven-Blockgein3" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Steven-Blockgein3" /></a>
+  <a href="https://github.com/SteOnChain" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="SteOnChain" /></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ I'm a passionate developer specializing in **Solana smart contracts, Web3 toolin
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Steven-Blockgein3&theme=radical&no_bg=true&border=0&margin-w=15" alt="Steven-Blockgein3 Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SteOnChain&theme=radical&no_bg=true&border=0&margin-w=15" alt="SteOnChain Trophies" />
   </a>
 </p>
 
@@ -121,16 +121,16 @@ Here is a breakdown of the incredibly ambitious ecosystems, organizations, and p
 > Note: Most of my active work is in **private repositories**, which is why my public commit history might seem quiet!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Steven-Blockgein3&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="Steven's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Blockgein3&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SteOnChain&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="Steven's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteOnChain&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
   <!-- The Snake Animation Custom GitHub Action (Starts generating within 24 hours of setup) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steven-Blockgein3/Steven-Blockgein3/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steven-Blockgein3/Steven-Blockgein3/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Steven-Blockgein3/Steven-Blockgein3/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SteOnChain/SteOnChain/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SteOnChain/SteOnChain/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SteOnChain/SteOnChain/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
