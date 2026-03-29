@@ -122,7 +122,6 @@ Here is a breakdown of the incredibly ambitious ecosystems, organizations, and p
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SteOnChain&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="Steven's GitHub stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SteOnChain&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
