@@ -26,15 +26,6 @@ I'm a passionate developer specializing in **Solana smart contracts, Web3 toolin
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-kannan.vercel.app/?username=SteOnChain&theme=radical&no_bg=true&border=0&margin-w=15" alt="SteOnChain Trophies" />
-  </a>
-</p>
-
----
-
 ### 🏢 Open Source Contributions @Bytez3
 
 <p align="center">
@@ -137,12 +128,12 @@ Here is a breakdown of the incredibly ambitious ecosystems, organizations, and p
   </a>
 </p>
 
-### 📊 GitHub Stats & Contributions
+### 📊 Advanced GitHub Metrics
 
-> Note: Most of my active work is in **private repositories**, which is why my public commit history might seem quiet!
+> Note: Metrics include all private and organizational repositories (Bytez3)
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SteOnChain&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="Steven's GitHub stats" />
+  <img alt="github metrics" src="./github-metrics.svg">
 </p>
 
 <p align="center">
